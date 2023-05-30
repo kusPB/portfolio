@@ -1,0 +1,61 @@
+#download {
+  margin: 5rem 0;
+  position: relative;
+  #platforms {
+    width: 100%;
+    position: absolute;
+    bottom: 20%;
+    h1 {
+      margin-bottom: 80px;
+    }
+    #brands {
+      flex-wrap: wrap;
+      .logo {
+        width: 220px;
+      }
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  #download {
+    margin: 15rem 0;
+    // #dbg {
+    //   display: none;
+    // }
+    #platforms {
+      width: 100%;
+      position: absolute;
+      bottom: 20%;
+      h1 {
+        margin-bottom: 0;
+      }
+      #brands {
+        .logo {
+          width: 100px;
+        }
+      }
+    }
+  }
+}
+a:hover {
+  background: transparent;
+  
+  &:after {
+    animation: pulse 0.4s ease infinite alternate;
+    z-index: -1;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+    border-radius: 50%;
+  }
+  100% {
+    transform: scale(1.5);
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+    border-radius: 45%;
+  }
+}

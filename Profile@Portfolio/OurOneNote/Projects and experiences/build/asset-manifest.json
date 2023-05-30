@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d36ce5c2.css",
+    "main.js": "/static/js/main.21ed2eeb.js",
+    "static/js/787.a0ed134d.chunk.js": "/static/js/787.a0ed134d.chunk.js",
+    "static/media/bg orange.png": "/static/media/bg orange.daad7af8098b5ac28677.png",
+    "static/media/bg gelb.png": "/static/media/bg gelb.365be85ab268ecc869c3.png",
+    "static/media/bg grün.png": "/static/media/bg grün.f6043c4e059d6f92332e.png",
+    "static/media/bg blau.png": "/static/media/bg blau.c7ef6d99609d7bd38e55.png",
+    "static/media/bg pastelblau.png": "/static/media/bg pastelblau.b18851b21a59b6dd0daa.png",
+    "static/media/bg braun.png": "/static/media/bg braun.8252bd385d2bb7a03ba5.png",
+    "static/media/bg pastellorange.png": "/static/media/bg pastellorange.3ae841f18e2a4ec98e04.png",
+    "static/media/bg pastelgrün.png": "/static/media/bg pastelgrün.8e2a0a9b1a5a1da1ebcc.png",
+    "static/media/bg pastellgelb.png": "/static/media/bg pastellgelb.2e0d159ef87b504d176f.png",
+    "static/media/forex-trading-account-1.jpg": "/static/media/forex-trading-account-1.4202c7072ffce5eb9411.jpg",
+    "static/media/logo.svg": "/static/media/logo.b8542c616957c431e0f14e3d0d5cb49a.svg",
+    "index.html": "/index.html",
+    "main.d36ce5c2.css.map": "/static/css/main.d36ce5c2.css.map",
+    "main.21ed2eeb.js.map": "/static/js/main.21ed2eeb.js.map",
+    "787.a0ed134d.chunk.js.map": "/static/js/787.a0ed134d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36ce5c2.css",
+    "static/js/main.21ed2eeb.js"
+  ]
+}

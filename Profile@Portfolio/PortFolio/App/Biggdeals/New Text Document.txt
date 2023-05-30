@@ -1,0 +1,1 @@
+This is an offer showing responsive website, we are showing products from Flipkart and Amazon along with other details like Title, Price, Color, Size etc.

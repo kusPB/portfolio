@@ -1,0 +1,10 @@
+This app refers to a very well known food delivery services being provided by app.
+
+About the project
+An on demand service app with all the basic home requirement.
+
+- Create a profile
+- Select the service you want
+- Schedule the work as per your convenient time
+- Get your work done
+- Make the payment
